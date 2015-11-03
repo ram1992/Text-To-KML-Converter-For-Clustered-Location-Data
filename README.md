@@ -1,5 +1,5 @@
 # Text-To-KML-Converter-For-Clustered-Location-Data
-This file converts clustered location data containing latitudes and longitudes into Key Hole Markup language placemarks.Each location point is considered as a placemark and each cluster is given an unique color.
+This script converts clustered location data containing latitudes and longitudes into Key Hole Markup language placemarks.Each location point is considered as a placemark and each cluster is given an unique color.
 
 Programming Language Used: Python
 Input:
