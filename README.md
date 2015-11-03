@@ -3,20 +3,20 @@ This file converts clustered location data containing latitudes and longitudes i
 
 Programming Language Used: Python
 Input:
-The code assumes the input to be in the following manner:__
+The code assumes the input to be in the following manner:  
 
-"Name of the clustering algorithm input is formed from"__
-Cluster Number 1_
-latitude 1, longitude 1,...__
-latitude 2, longitude 2,...__
-'__
-'__
-'__
-'__
-'__
-Cluster Number 2__
-latitude 1, longitude 1,...__
-latitude 2, longitude 2,...__
+"Name of the clustering algorithm input is formed from"  
+Cluster Number 1  
+latitude 1, longitude 1,...  
+latitude 2, longitude 2,...  
+'  
+'  
+'  
+'  
+'  
+Cluster Number 2  
+latitude 1, longitude 1,...  
+latitude 2, longitude 2,...  
 
 Output:
 
